@@ -6,7 +6,7 @@ const Buttons = ({children,version,type,isDisabled}) => {
   </button>;
 };
 Buttons.defaultProps = {
-    version:'priamry',
+    version:'primary',
     type: 'button',
     isDisabled: false
 
